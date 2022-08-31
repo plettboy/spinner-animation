@@ -1,6 +1,6 @@
-process.stdout.write("hello from spinner1.js... \rheyyy\n");
+process.stdout.write("hello from spinner2.js... \rheyyy\n");
 
-delay = 
+delay = 100;
 
 let spinner = ["\r|   ", "\r/   ", "\r-   ", "\r\\   ", "\r|   ", "\r/   ", "\r-   ", "\r|   "];
 
